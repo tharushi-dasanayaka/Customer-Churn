@@ -1,0 +1,15 @@
+pandas
+jupyter
+scikit-learn
+
+fastapi
+pydantic
+requests
+python-multipart
+
+pyjwt
+bcrypt==3.2.2
+python-jose[cryptography]
+passlib
+imgkit
+uvicorn
